@@ -1,1 +1,0 @@
-alert('islam sheikh')
